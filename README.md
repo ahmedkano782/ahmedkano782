@@ -1,16 +1,22 @@
-## Hi there 👋
+# Zdravo, ja sam Ahmed Mrakanović 👋
 
-<!--
-**ahmedkano782/ahmedkano782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Učenik sam Elektrotehničke škole u Tuzli, smjer **Tehničar računarstva**.  
+Zanima me programiranje i elektronika. 🔌
 
-Here are some ideas to get you started:
+## 🛠️ Šta znam raditi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programiranje u **Flowcode-u** (PIC mikrokontroleri)
+- Osnove elektronike i digitalne logike
+- Izrada i simulacija sklopova
+
+## 📂 Moji projekti
+
+| Projekat | Opis |
+|----------|------|
+| [⏱️ Štoperica](https://github.com/ahmedkano782/stoperica) | Digitalna štoperica sa LCD displejom i 4 dugmeta |
+| [🚦 Semafor](https://github.com/ahmedkano782/semafor) | Sinhronizovani semafor za auta i pješake |
+
+## 📬 Kontakt
+
+- 🏫 ETŠ Tuzla
+- 📧 ahmed.kano782@gmail.com
