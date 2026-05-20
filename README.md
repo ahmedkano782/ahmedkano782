@@ -1,22 +1,18 @@
-# Zdravo, ja sam Ahmed Mrakanović 
+# Ahmed Mrakanović
 
-Učenik sam Elektrotehničke škole u Tuzli, smjer **Tehničar računarstva**.  
-Zanima me programiranje i elektronika. 
+Učenik ETŠ Tuzla, smjer tehničar računarstva. Zanima me programiranje mikrokontrolera i elektronika općenito.
 
-## 🛠️ Šta znam raditi
+## Šta znam raditi
 
-- Programiranje u **Flowcode-u** (PIC mikrokontroleri)
-- Osnove elektronike i digitalne logike
-- Izrada i simulacija sklopova
+- Programiranje u Flowcode-u
+- Rad sa PIC mikrokontolerima
+- Osnove digitalne elektronike
 
-## 📂 Moji projekti
+## Projekti
 
-| Projekat | Opis |
-|----------|------|
-| [⏱️ Štoperica](https://github.com/ahmedkano782/stoperica) | Digitalna štoperica sa LCD displejom i 4 dugmeta |
-| [🚦 Semafor](https://github.com/ahmedkano782/semafor) | Sinhronizovani semafor za auta i pješake |
+- [Štoperica](https://github.com/ahmedkano782/stoperica) — digitalna štoperica sa LCD displejom, rađena u Flowcode-u
+- [Semafor](https://github.com/ahmedkano782/semafor) — simulacija semafora za auta i pješake
 
-## 📬 Kontakt
+## Kontakt
 
-- 🏫 ETŠ Tuzla
-- 📧 ahmed.kano782@gmail.com
+ahmed.kano782@gmail.com
