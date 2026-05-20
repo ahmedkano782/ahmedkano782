@@ -1,7 +1,7 @@
-# Zdravo, ja sam Ahmed Mrakanović 👋
+# Zdravo, ja sam Ahmed Mrakanović 
 
 Učenik sam Elektrotehničke škole u Tuzli, smjer **Tehničar računarstva**.  
-Zanima me programiranje i elektronika. 🔌
+Zanima me programiranje i elektronika. 
 
 ## 🛠️ Šta znam raditi
 
